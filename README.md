@@ -32,6 +32,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PixelRei/PixelRei/output/snake.svg" alt="Snake animation" />
 
 ###
