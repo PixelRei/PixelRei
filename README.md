@@ -31,7 +31,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PixelRei/PixelRei/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/PixelRei/PixelRei/blob/output/github-snake-dark.svg)
 
 ###
