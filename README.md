@@ -31,6 +31,6 @@
 </div>
 
 ###
-![snake gif](https://github.com/PixelRei/PixelRei/blob/output/github-snake-dark.svg)
+![GitHub Snake Animation](https://github.com/PixelRei/PixelRei/blob/output/github-contribution-grid-snake.svg)
 
 ###
