@@ -2,17 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write 
+
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game from Contributions
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -20,9 +24,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: "dist/github-snake.svg dist/github-snake-dark.svg"
-          message: "Aggiornato lo Snake Game"
-          push: true
+          commit_message: "update Snake animation"
+          branch: main
