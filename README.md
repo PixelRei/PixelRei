@@ -38,6 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PixelRei/PixelRei/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/<PixelRei>/<yPixelRei>/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
