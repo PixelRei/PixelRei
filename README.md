@@ -38,7 +38,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/<tuo-username>/<tuo-username>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/<PixelRei>/<PixelRei>/output/github-contribution-grid-snake.svg)
 
 
 
