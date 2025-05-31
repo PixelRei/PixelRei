@@ -38,7 +38,8 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/<PixelRei>/<PixelRei>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://<PixelRei>.github.io/<PixelRei>/github-contribution-grid-snake.svg)
+
 
 
 
